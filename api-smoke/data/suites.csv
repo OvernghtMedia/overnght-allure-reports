@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","119","GET /me exposes a boolean clipCutterAccess (admin)","api","2026-06-11","passed","2026-06-11","Me DTO — clipCutterAccess","../api/me-clip-cutter.spec.ts","",""
+"","95","GET /me without auth → 401","api","2026-06-11","passed","2026-06-11","Me DTO — clipCutterAccess","../api/me-clip-cutter.spec.ts","",""
+"","110","GET /me exposes a boolean clipCutterAccess (regular)","api","2026-06-11","passed","2026-06-11","Me DTO — clipCutterAccess","../api/me-clip-cutter.spec.ts","",""
+"","689","regular user does not see test events in the list","api","2026-06-11","passed","2026-06-11","GET /platform/events","../api/events.spec.ts","",""
+"","773","admin sees test events in the list","api","2026-06-11","passed","2026-06-11","GET /platform/events","../api/events.spec.ts","",""
