@@ -1,0 +1,4 @@
+[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@wallet.stg","redirectPath":"/subscription"}
+[e2e:auth] Opened with session https://stg.overnght.com/subscription
+[e2e:lifecycle] Add payment method submitted
+[e2e:lifecycle] Payment method added (toast_visible)
