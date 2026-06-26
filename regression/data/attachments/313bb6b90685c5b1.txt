@@ -1,6 +1,0 @@
-[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@wallet.stg","redirectPath":"/subscription"}
-[e2e:auth] Opened with session https://stg.overnght.com/subscription
-[e2e:lifecycle] Cookie banner dismissed
-[e2e:lifecycle] Cancel Subscription clicked
-[e2e:lifecycle] Cancel confirmed via "Yes, Cancel" (evaluate)
-[e2e:lifecycle] Cancel flow completed — indicator: reactivate
