@@ -1,3 +1,0 @@
-[e2e:renewal] test clock created clock_1TmcwmFZcfYcnIYm91qIgj5u
-[e2e:renewal] subscription created sub_1TmcwnFZcfYcnIYmb6hy0gSl
-[e2e:renewal] clock advanced + ready 3024000
