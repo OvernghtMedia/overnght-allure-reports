@@ -1,5 +1,0 @@
-[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@wallet.stg","redirectPath":"/subscription"}
-[e2e:auth] Opened with session https://stg.overnght.com/subscription
-[e2e:lifecycle] Cookie banner dismissed
-[e2e:lifecycle] Already in Cancelled state — skip cancel click
-[e2e:lifecycle] Cancel flow completed — indicator: badge
