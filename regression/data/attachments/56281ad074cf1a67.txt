@@ -1,5 +1,0 @@
-[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@coupon.stg","redirectPath":"/s/start"}
-[e2e:auth] Opened with session https://stg.overnght.com/s/start
-[e2e:coupon] Coupon MARIA2025 applied — 10% discount visible
-[e2e:coupon] Subscription with coupon purchased successfully
-[e2e:cleanup] test@coupon.stg: cancelled 1, 0 still active after wait

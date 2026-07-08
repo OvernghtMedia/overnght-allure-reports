@@ -1,0 +1,4 @@
+[e2e:cleanup] test@dup.stg: cancelled 1, 0 still active after wait
+[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@dup.stg","redirectPath":"/s/start"}
+[e2e:auth] Opened with session https://stg.overnght.com/s/start
+[e2e:cleanup] test@dup.stg: cancelled 1, 0 still active after wait

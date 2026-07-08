@@ -1,0 +1,2 @@
+[e2e:auth] API login {"api":"https://api.stg.overnght.com","email":"test@coupon.stg","redirectPath":"/s/start"}
+[e2e:auth] Opened with session https://stg.overnght.com/s/start
